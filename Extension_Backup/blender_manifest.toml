@@ -7,7 +7,7 @@ tagline = "Backup or restore extensions via JSON. "
 maintainer = "g3215440591.gmail.com"
 type = "add-on"
 website = "https://github.com/3215440591/blender-extension-backup"
-tags = ["System", "Utility"]
+tags = ["Import-Export"]
 
 blender_version_min = "4.2.0"
 license = ["SPDX:GPL-3.0-or-later"]
